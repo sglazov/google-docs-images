@@ -9,7 +9,7 @@
 
    ```html
    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-   <script src="https://4enki.github.io/google-docs-images/google-docs-images.js"></script>
+   <script src="https://4enki.github.io/google-docs-images/dist/google-docs-images.min.js"></script>
    ```
 
    jQuery последней версии подключается из [jQuery CDN](https://code.jquery.com/).
