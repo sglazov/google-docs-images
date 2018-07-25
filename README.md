@@ -5,10 +5,13 @@
 ## Как использовать?
 
 1. Сохранить документ через меню «Файл» → «Скачать как» → «Веб-страница (HTML, ZIP-архив)»;
-1. В теле документа перед тегом `</body>` подключить два скрипта:
+1. В теле документа перед тегом `</body>` подключить два скрипта и определить корректное название картинок:
 
    ```html
    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+   <script>
+     var imgName = 'new_image_item';
+   </script>
    <script src="https://4enki.github.io/google-docs-images/dist/google-docs-images.min.js"></script>
    ```
 
