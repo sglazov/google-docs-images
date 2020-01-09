@@ -11,7 +11,7 @@
    <script>
      var imgName = 'new_image_item';
    </script>
-   <script src="https://4enki.github.io/google-docs-images/dist/google-docs-images.min.js"></script>
+   <script src="https://sglazov.github.io/google-docs-images/dist/google-docs-images.min.js"></script>
    ```
 1. Обновить html-страницу.
 1. Вручную псереименовывать картинки в папке `/images`.
@@ -31,7 +31,7 @@
 
 ## Что дальше-то?
 
-- [x] [Гист-файл](https://gist.github.com/4enki/441700b964e85bbca1c3d50f53887b79) превратить в полноценный репо. Создать один js-файл, который сможет всё;
+- [x] [Гист-файл](https://gist.github.com/sglazov/441700b964e85bbca1c3d50f53887b79) превратить в полноценный репо. Создать один js-файл, который сможет всё;
 - [x] Переписать без jQuery, ванильненько;
 - [x] Отдавать минифицированную версию JS;
 - [x] Вытащить параметр нового имени картинки в отдельный тег при подюкючении;
